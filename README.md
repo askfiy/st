@@ -11,8 +11,7 @@ Since I'm using it with tmux, I didn't add a scroll patch.
 Install the following fonts:
 
 ```zsh
-$ yay -S ttf-recursive
-$ yay -S nerd-fonts-go
+$ yay -S nerd-fonts
 ```
 
 At the same time, some default buttons have been modified:
